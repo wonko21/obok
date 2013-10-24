@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ccc-ffm-bk.png</file>
+        <file>ccc-ffm-wt.png</file>
+    </qresource>
+</RCC>
